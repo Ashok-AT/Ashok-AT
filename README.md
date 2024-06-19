@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashok AT</h1>
-<h3 align="center">A software engineer from India</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=700&size=80&duration=4000&pause=300&color=000000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=200&lines=Hi+👋,+I'm+Ashok+AT;A+Software+Engineer+from+India+✩" width="70%" />
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
