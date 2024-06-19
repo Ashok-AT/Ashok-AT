@@ -3,7 +3,7 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
-I make elegantly professional 💻⎈🐳 **Distributed Infrastructure / Kubernetes** ☁️ **Cloud Native** and 🌐 **Website** for a living. 
+I create elegantly professional 🌐 websites, 🤖 AI systems, ☁️ cloud-native solutions, and ⎈🐳 Kubernetes distributed infrastructure for a living." 
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
